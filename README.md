@@ -1,6 +1,6 @@
 Demo:
-https://user-images.githubusercontent.com/66009349/230706603-e5a9fab2-b179-463c-8654-4366676a82cf.mp4
 
+<video src="https://user-images.githubusercontent.com/66009349/230706603-e5a9fab2-b179-463c-8654-4366676a82cf.mp4" controls="controls" style="max-width: 730px;"></video>
 
 ### English:
 
