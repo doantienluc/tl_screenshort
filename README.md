@@ -15,11 +15,12 @@ Navigate to the downloaded folder and run the file _tl-scrs.exe_.
 **Step 3:**
 Here you have several options:
 
-Location: allows you to input the position to capture the screenshot (Left, Top, Width, Height).
-Image Prefix: allows you to save the image with a prefix of your choice, for example: hinhanh_, images_
-Starting Image Number: allows you to input a number to save the images in the format of hinhanh_1, hinhanh_2, hinhanh_3, etc.
-Shortcut Key: you can input a shortcut key and press Start, and when you want to take a screenshot, simply press that key once, and the screenshot will be saved in the images folder (same level as the tl-scrs.exe file).
-Support:
+- Location: allows you to input the position to capture the screenshot (Left, Top, Width, Height).
+- Image Prefix: allows you to save the image with a prefix of your choice, for example: hinhanh_, images_
+- Starting Image Number: allows you to input a number to save the images in the format of hinhanh_1, hinhanh_2, hinhanh_3, etc.
+- Shortcut Key: you can input a shortcut key and press Start, and when you want to take a screenshot, simply press that key once, and the screenshot will be saved in the images folder (same level as the tl-scrs.exe file).
+
+**Support:**
 Tien Luc - https://www.facebook.com/viruslove.nd
 
 
