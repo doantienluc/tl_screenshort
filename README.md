@@ -20,7 +20,7 @@ Here you have several options:
 - Starting Image Number: allows you to input a number to save the images in the format of hinhanh_1, hinhanh_2, hinhanh_3, etc.
 - Shortcut Key: you can input a shortcut key and press Start, and when you want to take a screenshot, simply press that key once, and the screenshot will be saved in the images folder (same level as the tl-scrs.exe file).
 
-**Support:**
+**Contact:**
 Tien Luc - https://www.facebook.com/viruslove.nd
 
 
@@ -42,5 +42,5 @@ Tìm tới thư mục đã tải về và chạy file _tl-scrs.exe_
 - Phím tắt: bạn có thể nhập vào phím tắt, sau đó ấn bắt đầu, khi muốn chụp ảnh màn hình, bạn chỉ cần ấn phím tắt đó 1 lần, file ảnh sẽ được lưu trong thư mục images (cùng cấp với file chạy tl-scrs.exe)
 
 
-**Hỗ trợ:**
+**Liên hệ:**
 Tiến Lực - https://www.facebook.com/viruslove.nd
